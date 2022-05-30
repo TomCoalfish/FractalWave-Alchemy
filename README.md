@@ -1,4 +1,5 @@
 # FractalWave-Synthesis
+Hydra Systems
 
 # Theories
 * https://www.synthtopia.com/content/2021/03/13/sound-synthesis-with-fractals/
