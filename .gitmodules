@@ -1,0 +1,30 @@
+[submodule "Fractal-Wavetable-Generator"]
+	path = Fractal-Wavetable-Generator
+	url = https://github.com/tonysnail/Fractal-Wavetable-Generator
+[submodule "fractal-synth"]
+	path = fractal-synth
+	url = https://github.com/hansel67/fractal-synth
+[submodule "Sound-Synthesizer-Python"]
+	path = Sound-Synthesizer-Python
+	url = https://github.com/Adiaslow/Sound-Synthesizer-Python
+[submodule "FractalSoundExplorer"]
+	path = FractalSoundExplorer
+	url = https://github.com/HackerPoet/FractalSoundExplorer
+[submodule "fractalsynth"]
+	path = fractalsynth
+	url = https://github.com/ensonic/fractalsynth
+[submodule "sacred-fractal"]
+	path = sacred-fractal
+	url = https://github.com/Phirxian/sacred-fractal
+[submodule "music-fractals"]
+	path = music-fractals
+	url = https://github.com/Imafikus/music-fractals
+[submodule "FracSound"]
+	path = FracSound
+	url = https://github.com/FairyCrack/FracSound
+[submodule "FractalMusicGenerator"]
+	path = FractalMusicGenerator
+	url = https://github.com/betaiotazeta/FractalMusicGenerator
+[submodule "FractalFilters"]
+	path = FractalFilters
+	url = https://github.com/NorthCoastModularCollective/FractalFilters
