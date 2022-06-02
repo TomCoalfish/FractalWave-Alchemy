@@ -16,3 +16,6 @@ Hydra Systems
 * https://github.com/hansel67/fractal-synth
 * https://github.com/Adiaslow/Sound-Synthesizer-Python
 * https://github.com/HackerPoet/FractalSoundExplorer
+
+# WaveShaper
+* Generate wave shaper from fractalizer
