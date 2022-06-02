@@ -11,11 +11,18 @@ Hydra Systems
 * http://www.fractalsciencekit.com/program/maneqn.htm
 
 
-# WaveTable
+# Fracatal Noises
 * https://github.com/tonysnail/Fractal-Wavetable-Generator
 * https://github.com/hansel67/fractal-synth
 * https://github.com/Adiaslow/Sound-Synthesizer-Python
 * https://github.com/HackerPoet/FractalSoundExplorer
+* https://github.com/mjdave/FluidNoise
+
 
 # WaveShaper
 * Generate wave shaper from fractalizer
+
+# Methods
+* noise + filters
+* brownian noise + filters
+* perlin noise + filters
