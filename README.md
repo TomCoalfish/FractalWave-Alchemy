@@ -11,7 +11,7 @@ Hydra Systems
 * http://www.fractalsciencekit.com/program/maneqn.htm
 
 
-# Fracatal Noises
+# Fractal Noises
 * https://github.com/tonysnail/Fractal-Wavetable-Generator
 * https://github.com/hansel67/fractal-synth
 * https://github.com/Adiaslow/Sound-Synthesizer-Python
