@@ -1,5 +1,5 @@
 # FractalWave-Synthesis
- 
+Synthesize fractal waves with DFT
 
 # Theories
 * https://www.synthtopia.com/content/2021/03/13/sound-synthesis-with-fractals/
