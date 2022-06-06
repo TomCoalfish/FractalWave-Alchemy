@@ -1,4 +1,4 @@
-# FractalWave-Synthesis
+# FractalWave-Alchemy
 Synthesize fractal waves with DFT
 
 # Theories
