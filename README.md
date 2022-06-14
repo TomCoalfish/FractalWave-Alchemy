@@ -1,6 +1,6 @@
 # FractalWave-Alchemy
 Synthesize fractal waves with DFT
-
+ 
 # Theories
 * https://www.synthtopia.com/content/2021/03/13/sound-synthesis-with-fractals/
 * https://www.academia.edu/49846523/Fractal_additive_synthesis
